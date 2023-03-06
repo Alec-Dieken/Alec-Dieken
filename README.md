@@ -17,5 +17,5 @@ LinkedIn: http://www.linkedin.com/in/alec-johann-dieken/
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
 </div>
 <br/>
-Currently transferring all coursework and practice repositories to --> https://github.com/ajdSpringboard <br/>
-This GitHub account will be for hosting only my finished personal projects.
+All coursework related or practice repositories on this account have been made private, and are currently being transferred to --> https://github.com/ajdSpringboard <br/>
+This GitHub account will only be for hosting my finished personal projects.
