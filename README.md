@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, World 👋
+My name is Alec, and I am a full-stack software engineer based out of the Bay Area, CA.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -13,6 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
 </div>
-
-Currently transferring all coursework and practice repositories to --> https://github.com/ajdSpringboard
+<br/>
+Currently transferring all coursework and practice repositories to --> https://github.com/ajdSpringboard <br/>
 This GitHub account will be for hosting only my finished personal projects.
