@@ -1,5 +1,7 @@
 ### Hello, World 👋
-My name is Alec, and I am a full-stack software engineer based out of the Bay Area, CA.
+My name is Alec, and I am a full-stack software engineer based out of the Bay Area, CA. <br/>
+Personal Website: http://alecdieken.com <br/>
+LinkedIn: http://www.linkedin.com/in/alec-johann-dieken/
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
