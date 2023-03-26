@@ -2,10 +2,10 @@
 <h3 align="center">A full-stack software and web engineer in the SF Bay Area, CA.</h3>
 
 - 🔭 I’m currently working on: 
-  - **StockFeeler:** A website that allows users to.
+  - **StockFeeler**
   - **ThreeJS Demo**
 
-- 🌱 I’m currently learning **Brain.js, TensorFlow, AWS**
+- 🌱 I’m currently learning: **Brain.js, TensorFlow, AWS**
 
 - 👨‍💻 Where to view my projects:
   - **projectbeast.io**
