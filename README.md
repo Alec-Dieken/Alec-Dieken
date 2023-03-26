@@ -9,7 +9,7 @@
 
 - 👨‍💻 Where to view my projects: [http://alecdieken.com](http://alecdieken.com)
 
-- 📝 Where to see my coursework: [http://alecdieken.com](http://alecdieken.com)
+- 📝 Where to see my coursework: [http://github.com/ajdSpringboard](http://github.com/ajdSpringboard)
 
 - 📫 How to reach me **alec@alecdieken.com**
 
