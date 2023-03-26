@@ -14,10 +14,12 @@
   - **Hack-or-Snooze**
     - Live Demo: [https://alec-dieken.github.io/hack-or-snooze/](https://alec-dieken.github.io/hack-or-snooze/)
     - GitHub Repo: [https://github.com/Alec-Dieken/hack-or-snooze](https://github.com/Alec-Dieken/hack-or-snooze)
+  - **Jobly**
+    - GitHub Repo: [https://github.com/Alec-Dieken/jobly](https://github.com/Alec-Dieken/jobly)
 
-- 📝 Where to see my coursework: [http://github.com/ajdSpringboard](http://github.com/ajdSpringboard)
+- 📝 My coursework: [http://github.com/ajdSpringboard](http://github.com/ajdSpringboard)
 
-- 📫 How to reach me **alec@alecdieken.com**
+- 📫 How to reach me: **alec@alecdieken.com**
 
 - 📄 Resume: [https://alecdieken.com/documents/Alec_Dieken_Resume.pdf](https://alecdieken.com/documents/Alec_Dieken_Resume.pdf)
 
