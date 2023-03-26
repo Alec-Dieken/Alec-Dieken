@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
-<h3 align="center">A full-stack software and web engineer in the SF Bay Area, CA.</h3>
+<h3 align="center">I am full-stack software and web developer in the SF Bay Area, CA.</h3>
 
 - 🔭 I’m currently working on: 
   - **StockFeeler**
