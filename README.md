@@ -7,10 +7,13 @@
 
 - 🌱 I’m currently learning **Brain.js, TensorFlow, AWS**
 
-- 👨‍💻 Where to view my projects: 
-  - [http://alecdieken.com](http://alecdieken.com)
-  - Hack-or-Snooze:
-    - GitHub Pages: [https://alec-dieken.github.io/hack-or-snooze/](https://alec-dieken.github.io/hack-or-snooze/)
+- 👨‍💻 Where to view my projects:
+  - **projectbeast.io**
+    - Live Demo: [http://projectbeast.io](http://projectbeast.io)
+    - GitHub Repo: [https://github.com/Alec-Dieken/projectbeast](https://github.com/Alec-Dieken/projectbeast)
+  - **Hack-or-Snooze**
+    - Live Demo: [https://alec-dieken.github.io/hack-or-snooze/](https://alec-dieken.github.io/hack-or-snooze/)
+    - GitHub Repo: [https://github.com/Alec-Dieken/hack-or-snooze](https://github.com/Alec-Dieken/hack-or-snooze)
 
 - 📝 Where to see my coursework: [http://github.com/ajdSpringboard](http://github.com/ajdSpringboard)
 
