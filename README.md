@@ -10,6 +10,7 @@ Hello! My name is Alec. I am a full-stack software engineer and web developer ba
 My strong passions for helping others and solving challenging problems, coupled with my fascination for clean, scalable app design, drives me every day to become the best software engineer I can possibly be.
 <br/><br/>
 
+### 🚀 My Tech Stack:
 <div align="left">
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
