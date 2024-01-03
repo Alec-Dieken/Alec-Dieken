@@ -49,5 +49,5 @@ Explore my learning journey at [Springboard](http://github.com/ajdSpringboard).
 - 📧 Email: [alec@alecdieken.com](mailto:alec@alecdieken.com)
 - 🌐 Portfolio: [alecdieken.com](https://alecdieken.com)
 - 🔗 LinkedIn: [Alec Johann Dieken](https://linkedin.com/in/alec-johann-dieken)
-- 📄 Resume: [View Resume](https://alecdieken.com/documents/Alec_Dieken_Resume.pdf)
+- 📄 Resume: [View Resume](https://alecdieken.com/documents/Alec-Dieken-Resume.pdf)
 <br/>
