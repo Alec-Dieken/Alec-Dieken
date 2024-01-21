@@ -35,7 +35,7 @@ My strong passions for helping others and solving challenging problems, coupled 
 <br/><br/>
 
 ### 👨‍💻 Featured Projects:
-- **StockFeeler**: AI-driven stock sentiment analysis tool. [GitHub](https://github.com/Alec-Dieken/StockFeeler)
+- **StockFeeler**: AI-driven stock sentiment analysis tool. [Live Demo](https://stockfeeler.online) | [GitHub](https://github.com/Alec-Dieken/StockFeeler)
 - **ProjectBeast**: Advanced task management system. [Live Demo](https://projectbeast.online) | [GitHub](https://github.com/Alec-Dieken/projectbeast)
 - **Hack-or-Snooze**: Interactive news aggregation site. [Live Demo](https://alec-dieken.github.io/hack-or-snooze/) | [GitHub](https://github.com/Alec-Dieken/hack-or-snooze)
 - **Jobly**: Full-stack job search application. [GitHub](https://github.com/Alec-Dieken/jobly)
