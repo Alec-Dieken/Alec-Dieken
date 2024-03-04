@@ -1,14 +1,7 @@
 <h1 align="center">👋 Hi, I'm Alec</h1>
-<h2 align="center">Full-stack Software Engineer & Web Developer</h2>
 <p align="center">📍 San Francisco Bay Area, CA</p>
 
 ---
-
-### 🚀 About Me:
-Hello! My name is Alec. I am a full-stack software engineer and web developer based in the San Francisco Bay Area, CA.<br/>
-<br/>
-My strong passions for helping others and solving challenging problems, coupled with my fascination for clean, scalable app design, drives me every day to become the best software engineer I can possibly be.
-<br/><br/>
 
 ### 🚀 My Tech Stack:
 <div align="left">
